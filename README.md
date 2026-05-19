@@ -13,8 +13,7 @@ Project-ChurnGuard/
 ├── task1_load_explore.py      # Step 1: Load & explore the dataset
 ├── task2_clean_data.py        # Step 2: Clean and preprocess the data
 ├── task3_train_model.py       # Step 3: Train a Logistic Regression model
-├── task4_predict.py           # Step 4: Interactive churn prediction
-└── .gitignore
+└── task4_predict.py           # Step 4: Interactive churn prediction
 ```
 
 ---
